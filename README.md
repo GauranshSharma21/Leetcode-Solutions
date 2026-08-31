@@ -23,10 +23,12 @@ This is the leetcode problems repository  in which leetcode daily challenge prob
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/GauranshSharma21/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/GauranshSharma21/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/GauranshSharma21/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/GauranshSharma21/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
@@ -62,4 +64,12 @@ This is the leetcode problems repository  in which leetcode daily challenge prob
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/GauranshSharma21/Leetcode-Solutions/tree/master/0268-missing-number) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/GauranshSharma21/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/GauranshSharma21/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
